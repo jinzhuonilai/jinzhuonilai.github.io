@@ -13,7 +13,7 @@ header-img: "img/PostBack.png"
 每次只选择一个日期，再进来选择另外一个日期。比如要选择2月3号和2月24号，先选择3号->确认->再选择24号->确认。如图：
 ![](http://ww1.sinaimg.cn/large/006tNbRwjw1faspq8bcqkj30ku112769.jpg)
 
-### 再选择其他日期：
+再选择其他日期：
 ![](http://ww1.sinaimg.cn/large/006tNbRwjw1faspqi4qvhj30ku112gnq.jpg)
 
 ### 后续解决办法：
