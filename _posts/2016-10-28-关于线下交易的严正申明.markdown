@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "【公告】关于线下交易的严正声明"
+title:      "关于线下交易的严正声明"
 date:       2016-10-28
 author:     "你来客服"
 header-img: "img/PostBack.png"
