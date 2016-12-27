@@ -29,5 +29,5 @@ header-img: "img/PostBack.png"
 推荐。  
 
 ### 如何发布新品类的服务
-1. 请先将 App 更新至最新版（ 3.1.5 ），iOS 用户 [**点击这里**](www.nilai.com)  **更新至最新版**，Android 用户 [**点击这里**](www.nilai.com)  **更新至最新版**。
-2.  [**点击这里**](www.nilai.com)  进入发布服务页面，你也可以在「服务管理」页面中，点击右上角发布新的服务。
+1. 请先将 App 更新至最新版（ 3.1.5 ），iOS 用户 [**点击这里**](https://www.nilai.com)  **更新至最新版**，Android 用户 [**点击这里**](https://www.nilai.com)  **更新至最新版**。
+2.  [**点击这里**](https://www.nilai.com)  进入发布服务页面，你也可以在「服务管理」页面中，点击右上角发布新的服务。
