@@ -2,7 +2,7 @@
 layout:     post
 title:      "服务审核标准"
 date:       2017-01-18
-author:     "你来客服"
+author:     你来客服
 header-img: "img/PostBack.png"
 ---
 
