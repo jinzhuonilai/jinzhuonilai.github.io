@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "服务审核标准"
-date:       2017-01-18
-author:     "你来客服"
+date:       2017-01-10
+author:     "你来客服"
 header-img: "img/PostBack.png"
 ---
 在你来出境游平台，每个当地人发布／修改的服务，须由**服务审核部门**审核通过后方可上线。  
